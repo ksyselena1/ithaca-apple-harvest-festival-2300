@@ -1,13 +1,11 @@
-# Project 3
+# Ithaca Apple Harvest Festival Website
 
-See the course web page for the project's requirements.
+As part of a class project for INFO 1300, I individually designed, tested, and developed a website with a validated form and proper design methods dedicated to Ithaca Apple Harvest Festival that happens every year.
 
-# Submission Instructions
+- Used HTML, Javascript, CSS
 
-See the respective **submit-_milestone_.md** file for each submission.
+Update: as part of class project for INFO 2300, I improved the website and created an image gallery and other advanced features through an addition of database with SQL queries and PHP
 
-| Submission  | Instructions                       |
-| ----------- | ---------------------------------- |
-| Milestone 1 | [submit-m1.md](submit-m1.md)   |
-| Milestone 2 | [submit-m2.md](submit-m2.md)   |
-| Final       | [submit-FINAL.md](submit-FINAL.md) |
+- Used PHP, HTML, CSS, SQL
+
+Have a look at the documentation process in documents/designjourney.md
